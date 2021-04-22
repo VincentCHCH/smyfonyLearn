@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-10T16:31:46.087Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="uEOAji2ZbwDwWfIAdEF5" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-22T06:28:10.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="qacgdl8Zj-fD79yHNHI8" version="14.5.10" type="github">
   <diagram id="j2Z1B1OJHPZ0BucMneA6" name="Page-1">
-    <mxGraphModel dx="1131" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,23 +184,11 @@
         <mxCell id="lq9T9U4SrdJ_rGuAQaK9-104" value="Task" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;strokeColor=#333333;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1140" y="400" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lq9T9U4SrdJ_rGuAQaK9-105" value="Sub Task" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="510" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lq9T9U4SrdJ_rGuAQaK9-108" value="Sub Task" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="560" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lq9T9U4SrdJ_rGuAQaK9-109" value="Sub Task" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="610" width="60" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="lq9T9U4SrdJ_rGuAQaK9-110" value="Nameing: (Phase) - (Deliver) - function - category&lt;br&gt;Eample: Initial - Analysis - Master&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Deliver - Test Design - Master&amp;nbsp;&lt;br&gt;Creater: Scrum Master" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1210" y="290" width="450" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lq9T9U4SrdJ_rGuAQaK9-111" value="Object: Review时看&lt;br&gt;Creater: Team Leader" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="430" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="lq9T9U4SrdJ_rGuAQaK9-112" value="Object:Team Member workload&lt;br&gt;Creater: Team Member" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="810" y="520" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lq9T9U4SrdJ_rGuAQaK9-115" value="Risk" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;strokeColor=#333333;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1430" y="400" width="80" height="80" as="geometry" />
@@ -208,7 +196,7 @@
         <mxCell id="lq9T9U4SrdJ_rGuAQaK9-116" value="Bug" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;strokeColor=#333333;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1540" y="400" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lq9T9U4SrdJ_rGuAQaK9-117" value="Object:Team Member workload&lt;br&gt;Creater: Team Member" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="1" vertex="1">
+        <mxCell id="lq9T9U4SrdJ_rGuAQaK9-117" value="Object:Team Member workload&lt;br&gt;Creater: Team Member&lt;br&gt;Assignee: Team Member" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1250" y="430" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lq9T9U4SrdJ_rGuAQaK9-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lq9T9U4SrdJ_rGuAQaK9-118" target="lq9T9U4SrdJ_rGuAQaK9-119" edge="1">
